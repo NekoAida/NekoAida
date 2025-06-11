@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nekoaida" alt="nekoaida" /></a> </p>
 
 <p align="left">
-<a href="https://stackoverflow.com/users/neko aida" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="neko aida" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/neko_aida" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="neko_aida" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
