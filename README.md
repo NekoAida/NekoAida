@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="[https://img5.pic.in.th/file/secure-sv1/VRChat_2025-05-19_08-14-04.677_1920x1080.png](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGlmdXM3bDBxMmRteW83bGc0aTF4YzA1MXN5cmJwMG13bWhzNmw5dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/V4sY8JCTxGyaI/giphy.gif)"  />
+<img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGlmdXM3bDBxMmRteW83bGc0aTF4YzA1MXN5cmJwMG13bWhzNmw5dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/V4sY8JCTxGyaI/giphy.gif"  />
 
 ###
 
