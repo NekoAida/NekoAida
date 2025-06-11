@@ -4,12 +4,12 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nekoaida&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExczd4OHVnb3c3cmd0aXd5ZG53b2NsZ2Y3Y2RhNjU4NzJxMjI0ZWRqYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Hx48Na3LBp1Dy/giphy.gif"  />
 
 ###
 
@@ -18,8 +18,7 @@
 
 ###
 
-<br clear="both">
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app?username=nekoaida&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
 
-<img src="https://raw.githubusercontent.com/maurodesouzac/maurodesouzac/output/snake.svg" alt="Snake animation" />
-
-###
