@@ -1,4 +1,4 @@
-<h1 align="center">Meow Toffy/Maew</h1>
+  <h1 align="center">Meow Toffy/Maew</h1>
 <h3 align="center">A humble little undergraduate student majoring in Software Engineering.</h3>
 
 ###
@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExczd4OHVnb3c3cmd0aXd5ZG53b2NsZ2Y3Y2RhNjU4NzJxMjI0ZWRqYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Hx48Na3LBp1Dy/giphy.gif"  />
+<img align="right" height="150" src="https://img5.pic.in.th/file/secure-sv1/VRChat_2025-05-19_08-14-04.677_1920x1080.png"  />
 
 ###
 
