@@ -1,5 +1,5 @@
 <h1 align="center">Meow Toffy/Maew</h1>
-<h3 align="center">A humble little software engineer.</h3>
+<h3 align="center">A humble little undergraduate student majoring in Software Engineering.</h3>
 
 ###
 
