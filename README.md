@@ -1,4 +1,4 @@
-  <h1 align="center">Meow Toffy/Maew</h1>
+  <h1 align="center">Hello Meow~~ I'm Toffy or Maew</h1>
 <h3 align="center">A humble little undergraduate student majoring in Software Engineering.</h3>
 
 ###
