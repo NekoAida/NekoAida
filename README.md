@@ -1,13 +1,16 @@
 # [ CHARACTER STATUS ]
 
-ID: NekoAida
-Class: Script Novice
-Rank: F
-Level: 01
-EXP: 0 / 9999
+ID: NekoAida  
+Class: Script Novice  
+Rank: F  
+Level: 01  
+EXP: 0 / 9999  
 
+<details>
+<summary><b>[ SYSTEM INITIALIZATION METRICS - CLICK TO EXECUTE OVERCLOCK ]</b></summary>
+
+```text
 --------------------------------------------------
-
 [ BASE ATTRIBUTES ]
 - HP: 12 / 100
 - MP: 0 / 50
@@ -17,7 +20,6 @@ EXP: 0 / 9999
 - Ping / Response Delay: 10702 ms
 
 --------------------------------------------------
-
 [ SYSTEM METRICS ]
 - Build Status: FAILED (Exit Code: 0x90909090)
 - Branch Count: 0 Active
@@ -27,7 +29,6 @@ EXP: 0 / 9999
 - Instruction Verification: BYPASS (Offset 0x0040112A: 0x74 -> 0xEB)
 
 --------------------------------------------------
-
 [ PASSIVE STATUS & TRAITS ]
 - Detached HEAD:
   Tracks no upstream lineage; history remains flattened with 0 merge conflicts.
