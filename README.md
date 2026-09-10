@@ -94,23 +94,3 @@ $1 = {
 </details>
 
 ---
-
-<details>
-<summary><b>[ DIAGNOSTIC DECRYPTION KEYS - FOR AUDITORS ONLY ]</b></summary>
-
-> **Decompiled Skill Profile:**
->
-> 1. **Binary Patching & Instruction Overriding (`0x90909090` / `0x74 -> 0xEB`)**
->    - Exit code `0x90909090` คือการรันสไลด์ `NOP` (`0x90`)
->    - การเปลี่ยน `0x74` (JZ) เป็น `0xEB` (JMP) สื่อถึงการ Reverse Engineer ข้ามระบบ Verification logic ของโปรแกรม ไม่ใช่แอปพังจริง
->
-> 2. **Network Routing & Ingress Tunneling (`10702 ms` / `0x29CE`)**
->    - ค่า `0x29CE` ในระบบเลขฐาน 16 แปลงเป็นฐาน 10 ได้ **10702**
->    - ในระบบดูเหมือนดีเลย์สูงมาก แต่แท้จริงคือรหัส Port ที่ใช้ผูก Custom Ingress / Server Tunnel
->
-> 3. **Clean Git Architecture (`Branch Count: 0` / `Linear Tree`)**
->    - แสดงสถานะไม่มีกิ่ง Branch ภายนอกดูเหมือนไม่ทำงานร่วมกับใคร แต่จริงๆ ใช้ Git Flow แบบ Rebase / Fast-Forward Linear Tree โดย Prune กิ่งที่ไม่ใช้ทิ้งทั้งหมด
->
-> 4. **Desktop Event Loop & Thread Lifecycle (`EDT Worker`)**
->    - การระบุ Event Dispatch Thread (EDT) ชี้ให้เห็นถึงความเข้าใจลึกซึ้งในโครงสร้าง Concurrency / UI Threading ของ Java Swing
-</details>
